@@ -74,7 +74,7 @@ function createWidget(amount) {
     let CHFStack = upperStack.addStack();
     CHFStack.layoutHorizontally()
 
-    let secondCurrency = CHFStack.addText(rates + ' CHF')
+    let secondCurrency = CHFStack.addText(rates3 + ' CHF')
     CHFStack.addSpacer(4)
     let image3 = CHFStack.addImage(img3)
     image3.imageSize = new Size(20, 20)
@@ -84,7 +84,7 @@ function createWidget(amount) {
     let GBPStack = upperStack.addStack();
     GBPStack.layoutHorizontally()
 
-    let thirdCurrency = GBPStack.addText(rates + ' GBP')
+    let thirdCurrency = GBPStack.addText(rates4 + ' GBP')
     GBPStack.addSpacer(4)
     let image4 = GBPStack.addImage(img4)
     image4.imageSize = new Size(20, 20)
