@@ -3,7 +3,7 @@ A Scriptable widget that shows exchange rates
 
 ![Visits Badge](https://badges.pufler.dev/visits/wickenico/exchange-rates.js)
 
-![exchangesRatesWidget](img/exchangesRatesWidget.png)
+![exchangesRatesWidget](img/exchangeRatesWidget.png)
 
 <p>
    <a href="#description">Setup</a> • 
